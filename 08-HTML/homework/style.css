@@ -1,0 +1,21 @@
+ 		h1 {
+ 			color: indianred;
+ 		}
+
+ 		img {
+ 			width: 400px;
+ 		}
+
+ 		#thirdDiv {
+ 			height: 600px;
+ 			width: 500px;
+ 			background-color: lightgrey;
+ 			padding: 50px;
+ 			border: 5px solid lightskyblue;
+ 		}
+
+ 		#spanId {
+ 			font-size: 18px;
+ 			margin: 50px;
+
+ 		}
